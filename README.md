@@ -3,16 +3,16 @@
 I currently work as an Algorithm Engineer at Xiaohongshu Inc. I earned my Bachelor's degree from Northeastern University (2017-2021) and my Master's degree from Tianjin University (2021-2023) in [TJUNLP](https://tjunlp-lab.github.io/), under the supervision of [Prof. Deiyi Xiong](https://dyxiong.github.io/).
 
 
-### Reasearch Domain
+### Research Domain
 My research interests are focused on:
 
-- 🌟**Machine Translation**, including Document-level Translation, Speech Translation, and Image Translation.
-- 🌟**Large Language Model**, with a particular emphasis on Reasoning, Retrieval-Augmented Generation, and LLM-based Agent.
+- 🌟&emsp;**Machine Translation**, including Document-level Translation, Speech Translation, and Image Translation.
+- 🌟&emsp;**Large Language Model**, with a particular emphasis on Reasoning, Retrieval-Augmented Generation, and LLM-based Agent.
 
-### Experience
-- 🧑‍💻 2023.11 ~ Now  : Algorithm Engineer, NLP Team, Sheqv Tech, Xiaohongshu Inc. Focus on developing Complex QA system and LLM-based Agent.
-- 🧑‍💻 2022.09~2023.08: Intern, Machine Translation Team, OPPO Research Institute. Engaged in research on End-to-End Speech Translation and LLM-enhanced Machine Translation.
-- 🧑‍🎓 2021.09~2022.09: Student, TJUNLP Group, Tianjin University. Conducted research in Document-level Machine Translation.
+### Experiences
+- 🧑‍💻&emsp;2023.11 ~ Now  : Algorithm Engineer, NLP Team, Sheqv Tech, Xiaohongshu Inc. Focus on developing Complex QA system and LLM-based Agent.
+- 🧑‍💻&emsp;2022.09~2023.08: Intern, Machine Translation Team, OPPO Research Institute. Engaged in research on End-to-End Speech Translation and LLM-enhanced Machine Translation.
+- 🧑‍🎓&emsp;2021.09~2022.09: Student, TJUNLP Group, Tianjin University. Conducted research in Document-level Machine Translation.
 
 ### Publications [[google scholar]](https://scholar.google.com/citations?user=13UiAdUAAAAJ&hl=zh-CN)
 #### 2024
