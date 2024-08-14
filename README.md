@@ -16,16 +16,17 @@ My research interests are focused on:
 
 ### Publications [[google scholar]](https://scholar.google.com/citations?user=mxpXRBYAAAAJ&hl=zh-CN)
 #### 2024
-- 📄&emsp;Hao Wang, Zhengshan Xue, **Yikun Lei**, Deyi Xiong. End-to-End Speech Translation with Mutual Knowledge Distillation. ICASSP (2024).
-- 📄&emsp;Xiaohu Zhao, Haoran Sun, **Yikun Lei**, Deyi Xiong. Regularizing Cross-Attention Learning for End-to-End Speech Translation with ASR and MT Attention Matrices. Expert Systems with Applications.
+- 📄&emsp;Haoran Sun, Renren Jin, Shaoyang Xu, Leiyu Pan, Supryadi, Menglong Cui, Jiangcun Du, **Yikun Lei**, Lei Yang, Ling Shi, Juesi Xiao, Shaolin Zhu, Deyi Xiong. [FuxiTranyu: A Multilingual Large Language Model Trained with Balanced Data](https://arxiv.org/abs/2408.06273). ArXiv(2024).
+- 📄&emsp;Hao Wang, Zhengshan Xue, **Yikun Lei**, Deyi Xiong. [End-to-End Speech Translation with Mutual Knowledge Distillation](https://ieeexplore.ieee.org/abstract/document/10445811/). ICASSP (2024).
+- 📄&emsp;Xiaohu Zhao, Haoran Sun, **Yikun Lei**, Deyi Xiong. [Regularizing Cross-Attention Learning for End-to-End Speech Translation with ASR and MT Attention Matrices](https://www.sciencedirect.com/science/article/abs/pii/S0957417424001064). Expert Systems with Applications.
 #### 2023
-- 📄&emsp;**Yikun Lei**, Zhengshan Xue, Xiaohu Zhao, Haoran Sun, Shaolin Zhu, Xiaodong Lin, Deyi Xiong. CKDST: Comprehensively and Effectively Distill Knowledge from Machine Translation to End-to-End Speech Translation. ACL Findings(2023).
-- 📄&emsp;Shaolin Zhu, Shangjie Li, **Yikun Lei**, Deyi Xiong. PEIT: Bridging the Modality Gap with Pre-trained Models for End-to-End Image Translation. ACL(2023).
-- 📄&emsp;Haoran Sun, Xiaohu Zhao, **Yikun Lei**, Shaolin Zhu, Deyi Xiong. Towards a Deep Understanding of Multilingual End-to-End Speech Translation. EMNLP Findings(2023).
-- 📄&emsp;Xiaohu Zhao, Haoran Sun, **Yikun Lei**, Shaolin Zhu, Deyi Xiong. CCSRD: Content-Centric Speech Representation Disentanglement Learning for End-to-End Speech Translation. EMNLP Findings(2023).
+- 📄&emsp;**Yikun Lei**, Zhengshan Xue, Xiaohu Zhao, Haoran Sun, Shaolin Zhu, Xiaodong Lin, Deyi Xiong. [CKDST: Comprehensively and Effectively Distill Knowledge from Machine Translation to End-to-End Speech Translation](https://aclanthology.org/2023.findings-acl.195.pdf). ACL Findings(2023).
+- 📄&emsp;Shaolin Zhu, Shangjie Li, **Yikun Lei**, Deyi Xiong. [PEIT: Bridging the Modality Gap with Pre-trained Models for End-to-End Image Translation](https://aclanthology.org/2023.acl-long.751.pdf). ACL(2023).
+- 📄&emsp;Haoran Sun, Xiaohu Zhao, **Yikun Lei**, Shaolin Zhu, Deyi Xiong. [Towards a Deep Understanding of Multilingual End-to-End Speech Translation](https://arxiv.org/pdf/2310.20456). EMNLP Findings(2023).
+- 📄&emsp;Xiaohu Zhao, Haoran Sun, **Yikun Lei**, Shaolin Zhu, Deyi Xiong. [CCSRD: Content-Centric Speech Representation Disentanglement Learning for End-to-End Speech Translation](https://aclanthology.org/2023.findings-emnlp.394.pdf). EMNLP Findings(2023).
 #### 2022
-- 📄&emsp;**Yikun Lei**, Yuqi Ren, Deyi Xiong. CoDoNMT: Modeling Cohesion Devices for Document-Level Neural Machine Translation. COLING(2022).
-- 📄&emsp;Haoran Sun, **Yikun Lei**, Deyi Xiong. Multilingual Neural Machine Transliteration with Adaptive Segmentation Schemes. IALP(2022).
+- 📄&emsp;**Yikun Lei**, Yuqi Ren, Deyi Xiong. [CoDoNMT: Modeling Cohesion Devices for Document-Level Neural Machine Translation](https://aclanthology.org/2022.coling-1.462.pdf). COLING(2022).
+- 📄&emsp;Haoran Sun, **Yikun Lei**, Deyi Xiong. [Multilingual Neural Machine Transliteration with Adaptive Segmentation Schemes](https://ieeexplore.ieee.org/abstract/document/9961282). IALP(2022).
 
 ### Commit Stats
 ![](https://github-readme-stats.vercel.app/api?username=AnoyiX&count_private=true&show_icons=true&theme=radical&show_owner=true)
