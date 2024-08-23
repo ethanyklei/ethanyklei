@@ -7,7 +7,8 @@ I currently work as an Algorithm Engineer at Xiaohongshu Inc. I earned my Bachel
 My research interests are focused on:
 
 - 🌟&emsp;**Machine Translation**, including Document-level Translation, Speech Translation, and Image Translation.
-- 🌟&emsp;**Large Language Model**, with a particular emphasis on Reasoning, Retrieval-Augmented Generation, and LLM-based Agent.
+- 🌟&emsp;**Large Language Model**, with a particular emphasis on Reasoning and LLM-based Agent.
+- 🌟&emsp;**AI Search Engine**, leveraging advanced artificial intelligence technologies to enhance the discovery, ranking, and summarization of information.
 
 ### Experiences
 - 🧑‍💻&emsp;2023.11 ~ Now  : Algorithm Engineer, NLP Team, Sheqv Tech, Xiaohongshu Inc. Focus on developing Complex QA system and LLM-based Agent.
