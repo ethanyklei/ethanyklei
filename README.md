@@ -11,7 +11,8 @@ My research interests are focused on:
 - 🌟&emsp;**AI Search Engine**, leveraging advanced artificial intelligence technologies to enhance the discovery, ranking, and summarization of information.
 
 ### Experiences
-- 🧑‍💻&emsp;2023.11 ~ Now  : Algorithm Engineer, NLP Team, Sheqv Tech, Xiaohongshu Inc. Focus on developing Complex QA system and LLM-based Agent.
+- 🧑‍💻&emsp;2023.11 ~ Now  : Algorithm Engineer, NLP Team, Sheqv Tech, Xiaohongshu Inc. Focus on developing Complex QA system and LLM-based Agent System.
+- 🧑‍💻&emsp;2023.08~2023.11: Inter, Xuming Capital. Responsible for end-to-end mid-to-high-frequency factor mining.
 - 🧑‍💻&emsp;2022.09~2023.08: Intern, Machine Translation Team, OPPO Research Institute. Engaged in research on End-to-End Speech Translation and LLM-enhanced Machine Translation.
 - 🧑‍🎓&emsp;2021.09~2022.09: Student, TJUNLP Group, Tianjin University. Conducted research in Document-level Machine Translation.
 
