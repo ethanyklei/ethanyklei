@@ -18,6 +18,8 @@ My research interests are focused on:
 
 ### Publications [[google scholar]](https://scholar.google.com/citations?user=mxpXRBYAAAAJ&hl=zh-CN)
 #### 2024
+- 📄&emsp;Meizhi Zhong, Chen Zhang, **Yikun Lei**, Xikai Liu, Yan Gao, Yao Hu, Kehai Chen, Min Zhang. [Understanding the RoPE Extensions of Long-Context LLMs: An Attention Perspective
+](https://arxiv.org/abs/2406.13282). ArXiv(2024).
 - 📄&emsp;Haoran Sun, Renren Jin, Shaoyang Xu, Leiyu Pan, Supryadi, Menglong Cui, Jiangcun Du, **Yikun Lei**, Lei Yang, Ling Shi, Juesi Xiao, Shaolin Zhu, Deyi Xiong. [FuxiTranyu: A Multilingual Large Language Model Trained with Balanced Data](https://arxiv.org/abs/2408.06273). ArXiv(2024).
 - 📄&emsp;Hao Wang, Zhengshan Xue, **Yikun Lei**, Deyi Xiong. [End-to-End Speech Translation with Mutual Knowledge Distillation](https://ieeexplore.ieee.org/abstract/document/10445811/). ICASSP (2024).
 - 📄&emsp;Xiaohu Zhao, Haoran Sun, **Yikun Lei**, Deyi Xiong. [Regularizing Cross-Attention Learning for End-to-End Speech Translation with ASR and MT Attention Matrices](https://www.sciencedirect.com/science/article/abs/pii/S0957417424001064). Expert Systems with Applications.
